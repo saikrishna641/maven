@@ -1,7 +1,7 @@
 <%@ taglib uri="http://www.makumba.org/presentation" prefix="mak" %>
 <html>
 <head>
-<title>Welcome to DEVOPS TELUGU Training</title>
+<title>Welcome to DEVOPS TELUGU Training saikrishna</title>
 </head>
 <body bgcolor="#E7799A">
 
